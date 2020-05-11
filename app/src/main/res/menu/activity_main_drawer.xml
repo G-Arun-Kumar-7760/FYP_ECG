@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btconnection"
+        android:title="Connect Bluetooth Device" />
+    <item
+        android:id="@+id/spo2_switch"
+        android:title="Start Receiving SpO2" />
+    <item
+        android:id="@+id/rate_setting"
+        android:title="Set Transfer Rate" />
+    <item
+        android:id="@+id/data_output"
+        android:title="Derive Value" />
+    <item
+        android:id="@+id/data_clear"
+        android:title="Delete Value" />
+
+</menu>
